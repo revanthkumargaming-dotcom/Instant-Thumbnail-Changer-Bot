@@ -9,20 +9,20 @@ import random
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
 # Bot Configuration
-API_TOKEN = os.environ.get("API_TOKEN", "")
+API_TOKEN = os.environ.get("API_TOKEN", "8591996339:AAFqmYA2C5o-hpPI07ZiE6RcCK0LCqPzYSs")
 # CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
 # MongoDB
-MONGO_URL = os.environ.get("MONGO_URL", "")
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://rupamedical:dQv9oKG7QK93BkIh@james.oufkybu.mongodb.net/?appName=james")
 DB_NAME = "thumbnail_bot"
 # CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
 # Owner/Admin
-OWNER_ID = int(os.environ.get("OWNER_ID", ""))
+OWNER_ID = int(os.environ.get("OWNER_ID", "6334669810"))
 # CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
