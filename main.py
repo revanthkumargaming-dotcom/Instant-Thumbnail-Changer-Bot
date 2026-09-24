@@ -44,7 +44,7 @@ app = Flask(__name__)
 #Supoort group @rexbotschat
 @app.route("/")
 def home():
-    return "Bot Made By @CantarellaBots"
+    return "Bot Made By @legendof1st"
 
 # CantarellaBots
 # Don't Remove Credit
