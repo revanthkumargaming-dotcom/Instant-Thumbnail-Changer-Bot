@@ -9,7 +9,7 @@ import random
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
 # Bot Configuration
-API_TOKEN = os.environ.get("API_TOKEN", "8591996339:AAHnUPoycr9TMAsLNifCVrJf59zkI-80FoM")
+API_TOKEN = os.environ.get("API_TOKEN", "8814211584:AAEHgp1JJaBHmKYvI9EcnmbN3QRnlaFIFfM")
 # CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
