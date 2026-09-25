@@ -9,7 +9,7 @@ import random
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
 # Bot Configuration
-API_TOKEN = os.environ.get("API_TOKEN", "8591996339:AAFqmYA2C5o-hpPI07ZiE6RcCK0LCqPzYSs")
+API_TOKEN = os.environ.get("API_TOKEN", "8591996339:AAHnUPoycr9TMAsLNifCVrJf59zkI-80FoM")
 # CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
@@ -30,14 +30,14 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "6334669810"))
 # UI URLs - Multiple images that rotate randomly
 # Use DIRECT image URLs (https://i.ibb.co/...) not page URLs (https://ibb.co/...)
 START_PICS = [
-   " https://i.ibb.co/0jjgxKM4/changli-wuthering-waves-4k-wallpaper-uhdpaper-com-437-2-b.jpg"
+    "https://i.ibb.co/0jjgxKM4/changli-wuthering-waves-4k-wallpaper-uhdpaper-com-437-2-b.jpg",
     # Add more direct image URLs here
 ]
 # CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
-CHANNEL_URL = os.environ.get("CHANNEL_URL", "@legendof1st")
+CHANNEL_URL = os.environ.get("CHANNEL_URL", "https://t.me/xgfxkx")
 DEV_URL = os.environ.get("DEV_URL", "@legendof1st")
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "0"))  # e.g., -100xxxxxxxxxxxx
 # CantarellaBots
