@@ -37,8 +37,8 @@ START_PICS = [
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
-CHANNEL_URL = os.environ.get("CHANNEL_URL", "https://t.me/xgfxkx")
-DEV_URL = os.environ.get("DEV_URL", "@legendof1st")
+CHANNEL_URL = os.environ.get("CHANNEL_URL", "https://t.me/cantarellabots")
+DEV_URL = os.environ.get("DEV_URL", "https://t.me/cantarella_wuwa")
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "0"))  # e.g., -100xxxxxxxxxxxx
 # CantarellaBots
 # Don't Remove Credit
@@ -54,4 +54,3 @@ def get_random_pic() -> str:
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
-
