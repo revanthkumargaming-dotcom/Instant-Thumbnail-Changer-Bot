@@ -30,7 +30,6 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "6334669810"))
 # UI URLs - Multiple images that rotate randomly
 # Use DIRECT image URLs (https://i.ibb.co/...) not page URLs (https://ibb.co/...)
 START_PICS = [
-    imgbb:
 "https://ibb.co/WSVrn3p"
 "https://ibb.co/YSTGnsR"
 "https://ibb.co/SX5qMMdM"
