@@ -30,7 +30,38 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "6334669810"))
 # UI URLs - Multiple images that rotate randomly
 # Use DIRECT image URLs (https://i.ibb.co/...) not page URLs (https://ibb.co/...)
 START_PICS = [
-    "https://i.ibb.co/0jjgxKM4/changli-wuthering-waves-4k-wallpaper-uhdpaper-com-437-2-b.jpg",
+    imgbb:
+"https://ibb.co/WSVrn3p"
+"https://ibb.co/YSTGnsR"
+"https://ibb.co/SX5qMMdM"
+"https://ibb.co/0jx7rCRD"
+"https://ibb.co/KjSRWFqw"
+"https://ibb.co/dw9rrNsz"
+"https://ibb.co/B5dK7gkm"
+"https://ibb.co/TD8BXzTS"
+"https://ibb.co/G4LwBrXr"
+"https://ibb.co/NdYHX7D4"
+"https://ibb.co/TxWkpRTw"
+"https://ibb.co/DDGBGqRg"
+"https://ibb.co/k6HvSxBD"
+"https://ibb.co/rf5vNWMh"
+"https://ibb.co/NgFZ5rkY"
+"https://ibb.co/fGP1RjH2"
+"https://ibb.co/WpV0WR6S"
+"https://ibb.co/hRxsFhJT"
+"https://ibb.co/RTCdQ4Lp"
+"https://ibb.co/YFhtypkH"
+"https://ibb.co/93ts3Mp6"
+"https://ibb.co/hF0GtXYn"
+"https://ibb.co/pBdphMnJ"
+"https://ibb.co/C3Y9w0KH"
+"https://ibb.co/PzswTb1Z"
+"https://ibb.co/20kFGVLT"
+"https://ibb.co/MDyT6cZQ"
+"https://ibb.co/1YSJc4pd"
+"https://ibb.co/1GXhs2fD"
+"https://ibb.co/8447HnWs"
+"https://ibb.co/dw0KYZDS"
     # Add more direct image URLs here
 ]
 # CantarellaBots
